@@ -26,7 +26,6 @@
     </formats>
 
     <fileSets>
-        <!-- main project directory structure -->
         <fileSet>
             <directory>.</directory>
             <outputDirectory></outputDirectory>
